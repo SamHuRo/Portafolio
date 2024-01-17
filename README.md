@@ -2,7 +2,7 @@
 In this portfolio you will find: 
 
 - Python Projects: you are going to find projects made with Python, among these you will find:
-	1. Cuenta_bancaria.py :fa-chevron-right: Project that simulates a bank account.
+	1. Cuenta_bancaria.py: Project that simulates a bank account.
 
 # Cooming soon
-- :tw-1f6b2: Case study 1
+- Case study 1
