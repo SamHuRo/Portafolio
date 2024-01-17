@@ -1,9 +1,3 @@
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
 # Portafolio
 In this portfolio you will find: 
 
