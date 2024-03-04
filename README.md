@@ -1,9 +1,15 @@
-# Portafolio
-In this portfolio you will find: 
 
-- Python Projects: you are going to find projects made with Python, among these you will find:
-	1. Cuenta_bancaria.py: Project that simulates a bank account.
-	2. Maquina_Turnos: simulates the operation of a shift machine. 
+# Portfolio 
 
-# Cooming soon
-- Case study 1
+In this portfolio you will find links to the projects developed. 
+
+
+## Acknowledgements
+
+ - [Lista de Pendientes](https://github.com/SamHuRo/Lista_Pendientes-React-Ts)
+ - [Web Scraping](https://github.com/SamHuRo/Web_scraping)
+
+## Feedback
+
+If you have any feedback, please reach out to us at samhuro3@gmail.com
+
