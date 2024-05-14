@@ -19,7 +19,10 @@
 
 ###
 
- - [Lista de Pendientes](https://github.com/SamHuRo/Lista_Pendientes-React-Ts)
+ - [Lista de Pendientes (React)](https://github.com/SamHuRo/Lista_Pendientes-React-Ts)
+ - [Lista de Pendientes (Django)](https://github.com/SamHuRo/Lista_Pendientes-Django)
+ - [Lista de Tareas (Angular V17)](https://github.com/SamHuRo/lista-tareas-angular17)
+ - [Landing Page (Angular V17)](https://github.com/SamHuRo/LandingPage-angular17)
  - [Web Scraping](https://github.com/SamHuRo/Web_scraping)
 
 ###
