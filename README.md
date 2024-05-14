@@ -24,6 +24,7 @@
  - [Lista de Tareas (Angular V17)](https://github.com/SamHuRo/lista-tareas-angular17)
  - [Landing Page (Angular V17)](https://github.com/SamHuRo/LandingPage-angular17)
  - [Web Scraping](https://github.com/SamHuRo/Web_scraping)
+ - [Análisis de transacciones de un banco ficticio](https://github.com/SamHuRo/prueba-bamcolombia-2024)
 
 ###
 
