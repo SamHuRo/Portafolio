@@ -25,6 +25,7 @@
  - [Landing Page (Angular V17)](https://github.com/SamHuRo/LandingPage-angular17)
  - [Web Scraping](https://github.com/SamHuRo/Web_scraping)
  - [Análisis de transacciones de un banco ficticio](https://github.com/SamHuRo/prueba-bamcolombia-2024)
+ - [Examen de admisión para la Maestría en ciencias de los Datos (EAFIT)](https://github.com/SamHuRo/examen-eafit-2024-2/tree/main)
 
 ###
 
