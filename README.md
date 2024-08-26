@@ -19,7 +19,7 @@
 
 ###
 
- - [Pending List (React)](https://github.com/SamHuRo/Lista_Pendientes-React-Ts)
+ - [Pending List (React)](https://github.com/SamHuRo/Lista_Pendientes-React-Ts), [Page](https://amazing-malasada-97727c.netlify.app/)
  - [Pending List (Django)](https://github.com/SamHuRo/Lista_Pendientes-Django)
  - [Task List (Angular V17)](https://github.com/SamHuRo/lista-tareas-angular17)
  - [Landing Page (Angular V17)](https://github.com/SamHuRo/LandingPage-angular17)
@@ -71,6 +71,7 @@ If you have any feedback, please reach out to us at samhuro3@gmail.com
 ###
 
 ## Certifications
+
 
 
 
