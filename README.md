@@ -68,9 +68,12 @@
 
 If you have any feedback, please reach out to us at samhuro3@gmail.com
 
+<<<<<<< HEAD
 ###
 
 ## Certifications
 
 
+=======
+>>>>>>> eb120e3287530c431c5e978c39c86c15cc46938e
 
